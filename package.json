@@ -1,0 +1,16 @@
+{
+  "name": "AdvancedTypeScript",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "nodemon": "^3.1.1"
+  }
+}
